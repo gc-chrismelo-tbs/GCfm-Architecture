@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Problem Incident"
+    id="2de64055-f2f2-4e1d-bd72-ceba7bec919f"
+    documentation="A problem incident is an incident that required a software configuration change to resolve or to prevent persistent incidents from occurring."/>
