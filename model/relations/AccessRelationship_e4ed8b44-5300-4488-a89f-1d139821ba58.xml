@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="e4ed8b44-5300-4488-a89f-1d139821ba58"
-    accessType="1">
+    accessType="3">
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_e05ee78a-e68d-40a4-b0d0-07ea3aa82660.xml#e05ee78a-e68d-40a4-b0d0-07ea3aa82660"/>
