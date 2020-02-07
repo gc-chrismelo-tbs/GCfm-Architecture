@@ -1,13 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Realization View"
+    name="Service Realization View - GCfm Service"
     id="342226ed-3cc5-47fe-b91d-b9d085062e96"
     viewpoint="service_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c8d29b80-534e-4c3e-82fb-3a84f67b1331"
-      targetConnections="4e2082a0-c681-40dc-a7b7-2baffbb9d1ad 71572c93-ae00-446d-bae4-9fa6d5fe581e">
+      targetConnections="4e2082a0-c681-40dc-a7b7-2baffbb9d1ad 71572c93-ae00-446d-bae4-9fa6d5fe581e"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f2483579-2454-4cb3-9887-f5aba001aab9"
@@ -72,7 +73,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="43963add-4457-473f-b17a-7647a67bd165">
+      id="43963add-4457-473f-b17a-7647a67bd165"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="4e2082a0-c681-40dc-a7b7-2baffbb9d1ad"
