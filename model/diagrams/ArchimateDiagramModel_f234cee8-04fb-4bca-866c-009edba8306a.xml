@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Realization View - Change Manage - GCfm Platform"
+    name="Service Realization View - GCfm Platform Change Manage"
     id="f234cee8-04fb-4bca-866c-009edba8306a"
     viewpoint="service_realization">
   <children
@@ -28,7 +28,7 @@
     <bounds
         x="12"
         y="12"
-        width="589"
+        width="613"
         height="37"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -37,7 +37,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4e659e7c-b720-440e-8c52-d047709306cf"
-      targetConnections="565c3c88-f65b-49ff-9fd7-01e239ce7202"
+      targetConnections="565c3c88-f65b-49ff-9fd7-01e239ce7202 1d2d65ee-f58c-4127-9e53-7c0f132dccad"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -58,7 +58,7 @@
           href="AccessRelationship_f07365b7-e585-44a8-9046-6b189cd8b870.xml#f07365b7-e585-44a8-9046-6b189cd8b870"/>
     </sourceConnections>
     <bounds
-        x="312"
+        x="336"
         y="156"
         width="109"
         height="109"/>
@@ -156,7 +156,7 @@
           href="AggregationRelationship_468e0e14-011b-41e4-a263-796cb8fb30bd.xml#468e0e14-011b-41e4-a263-796cb8fb30bd"/>
     </sourceConnections>
     <bounds
-        x="456"
+        x="480"
         y="71"
         width="145"
         height="230"/>
@@ -220,6 +220,15 @@
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_e4ed8b44-5300-4488-a89f-1d139821ba58.xml#e4ed8b44-5300-4488-a89f-1d139821ba58"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="1d2d65ee-f58c-4127-9e53-7c0f132dccad"
+        source="f378025d-83bb-4512-9ec2-f00d8dad8742"
+        target="4e659e7c-b720-440e-8c52-d047709306cf">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_56fac6a0-f676-4740-b09a-1a5cc1fb395d.xml#56fac6a0-f676-4740-b09a-1a5cc1fb395d"/>
+    </sourceConnections>
     <bounds
         x="192"
         y="84"
@@ -234,7 +243,7 @@
       id="69a30028-2900-4c2e-9131-3643bf913ae7"
       targetConnections="ce2cdd19-4356-4e8d-a9e3-d510e5ce21c3">
     <bounds
-        x="469"
+        x="480"
         y="336"
         width="120"
         height="55"/>
@@ -255,7 +264,7 @@
           href="AssociationRelationship_7e5c9c02-97c7-4d93-8489-e8c6298dfdec.xml#7e5c9c02-97c7-4d93-8489-e8c6298dfdec"/>
     </sourceConnections>
     <bounds
-        x="25"
+        x="12"
         y="336"
         width="120"
         height="55"/>

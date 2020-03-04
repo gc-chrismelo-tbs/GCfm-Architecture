@@ -7,25 +7,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5d8b6e17-a83e-474e-88a6-386d6d0631c3"
-      targetConnections="5d6fcd46-339c-48d0-a8d9-622eefe5ea32 414170a1-91e3-42e9-b6f9-785462b00eac cccf9ecc-2f80-4557-aa6c-aeb6c2c0bbb1 082db69c-52d6-4a18-83b8-3ab2d0dec8fd"
+      targetConnections="5d6fcd46-339c-48d0-a8d9-622eefe5ea32 414170a1-91e3-42e9-b6f9-785462b00eac cccf9ecc-2f80-4557-aa6c-aeb6c2c0bbb1 082db69c-52d6-4a18-83b8-3ab2d0dec8fd 2e3e70fc-09c1-47b8-badb-59c1dfffe9cd"
       type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="2e3e70fc-09c1-47b8-badb-59c1dfffe9cd"
-        source="5d8b6e17-a83e-474e-88a6-386d6d0631c3"
-        target="3d606e9d-8d69-48ea-952e-a0801a327769">
-      <bendpoints
-          startX="138"
-          endX="138"
-          endY="144"/>
-      <bendpoints
-          startX="138"
-          startY="-144"
-          endX="138"/>
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_e7bbaf8e-6ae6-4cb0-b1de-fbc218a00776.xml#e7bbaf8e-6ae6-4cb0-b1de-fbc218a00776"/>
-    </sourceConnections>
     <bounds
         x="312"
         y="156"
@@ -38,8 +21,25 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3d606e9d-8d69-48ea-952e-a0801a327769"
-      targetConnections="3d128431-5210-4889-9b3e-710ec6cb80dc 6616e0e1-3089-41ff-b09c-800687924507 2e3e70fc-09c1-47b8-badb-59c1dfffe9cd"
+      targetConnections="3d128431-5210-4889-9b3e-710ec6cb80dc 6616e0e1-3089-41ff-b09c-800687924507"
       type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="2e3e70fc-09c1-47b8-badb-59c1dfffe9cd"
+        source="3d606e9d-8d69-48ea-952e-a0801a327769"
+        target="5d8b6e17-a83e-474e-88a6-386d6d0631c3">
+      <bendpoints
+          startX="138"
+          endX="138"
+          endY="144"/>
+      <bendpoints
+          startX="138"
+          startY="-144"
+          endX="138"/>
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_e7bbaf8e-6ae6-4cb0-b1de-fbc218a00776.xml#e7bbaf8e-6ae6-4cb0-b1de-fbc218a00776"/>
+    </sourceConnections>
     <bounds
         x="312"
         y="12"

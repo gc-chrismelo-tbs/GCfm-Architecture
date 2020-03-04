@@ -1,13 +1,13 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Layered View - GCfm"
+    name="Layered View - GCfm - Launchpad"
     id="627911dc-3464-4369-96e7-ce5f0162f485"
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="32914b8f-9408-4ef2-af61-3c99ae61e4bb"
-      targetConnections="079a3de1-e192-4624-bde4-449ef8122022 3cd68a9f-e107-4fbe-98e8-012b8a0e818c 80c9274d-01a4-4dcb-965e-237fc93a749d">
+      targetConnections="80c9274d-01a4-4dcb-965e-237fc93a749d 079a3de1-e192-4624-bde4-449ef8122022">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="9c39d28b-0bd3-4411-8285-498403fec9d0"
@@ -126,34 +126,13 @@
           href="ServingRelationship_0de16618-45fa-4e14-84fe-ef0bce660fe8.xml#0de16618-45fa-4e14-84fe-ef0bce660fe8"/>
     </sourceConnections>
     <bounds
-        x="12"
+        x="239"
         y="204"
-        width="288"
+        width="361"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Facility"
         href="Facility_395ce527-8cbc-40c8-aaee-a908df1c8cb1.xml#395ce527-8cbc-40c8-aaee-a908df1c8cb1"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="83ea7ed5-9ce2-4aa8-bff0-dbb3765980a6">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3cd68a9f-e107-4fbe-98e8-012b8a0e818c"
-        source="83ea7ed5-9ce2-4aa8-bff0-dbb3765980a6"
-        target="32914b8f-9408-4ef2-af61-3c99ae61e4bb">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_501f4cc8-e369-416b-8e71-7560979befb2.xml#501f4cc8-e369-416b-8e71-7560979befb2"/>
-    </sourceConnections>
-    <bounds
-        x="312"
-        y="204"
-        width="288"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Facility"
-        href="Facility_1070fa65-b750-402d-a218-8d7ba59da00c.xml#1070fa65-b750-402d-a218-8d7ba59da00c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
