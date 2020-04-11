@@ -104,10 +104,10 @@
           href="ServingRelationship_0de16618-45fa-4e14-84fe-ef0bce660fe8.xml#0de16618-45fa-4e14-84fe-ef0bce660fe8"/>
     </sourceConnections>
     <bounds
-        x="71"
+        x="120"
         y="156"
-        width="361"
-        height="55"/>
+        width="312"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:Facility"
         href="Facility_395ce527-8cbc-40c8-aaee-a908df1c8cb1.xml#395ce527-8cbc-40c8-aaee-a908df1c8cb1"/>
