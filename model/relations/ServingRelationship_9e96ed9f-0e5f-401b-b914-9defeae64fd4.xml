@@ -6,6 +6,6 @@
       xsi:type="archimate:CommunicationNetwork"
       href="CommunicationNetwork_052c50c3-75bf-4366-9ad3-2bfa3c3432db.xml#052c50c3-75bf-4366-9ad3-2bfa3c3432db"/>
   <target
-      xsi:type="archimate:CommunicationNetwork"
-      href="CommunicationNetwork_b5a77c47-2e8e-40d3-8c1f-865d846aca46.xml#b5a77c47-2e8e-40d3-8c1f-865d846aca46"/>
+      xsi:type="archimate:Equipment"
+      href="Equipment_7fb30289-df06-4aeb-9907-ad536e4d9507.xml#7fb30289-df06-4aeb-9907-ad536e4d9507"/>
 </archimate:ServingRelationship>
