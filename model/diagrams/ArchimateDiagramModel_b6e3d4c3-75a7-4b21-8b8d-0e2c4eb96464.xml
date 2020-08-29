@@ -31,10 +31,10 @@
       <bendpoints
           startX="138"
           endX="138"
-          endY="144"/>
+          endY="-144"/>
       <bendpoints
           startX="138"
-          startY="-144"
+          startY="144"
           endX="138"/>
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
