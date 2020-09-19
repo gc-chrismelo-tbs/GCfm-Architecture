@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Service Realization View - GCfm Service"
-    id="342226ed-3cc5-47fe-b91d-b9d085062e96">
+    name="Layered View - GCfm - High-level"
+    id="342226ed-3cc5-47fe-b91d-b9d085062e96"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c8d29b80-534e-4c3e-82fb-3a84f67b1331"
