@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SCED (SSC)"
     id="id-27487ad14cbe4d0bb0950400861cb122"
-    documentation="SCED Cloud End in Ground to Cloud concept is the Cloud side of the secure communications path allowing access to internal SSC services such as:&#xD;&#xA;1. AD&#xD;&#xA;2. Backend Legacy Solutions OZ&#xD;&#xA;3. "/>
+    documentation="SCED is the secure communications path between internal SSC services and Cloud services:&#xD;&#xA;1. ADFS&#xD;&#xA;2. Backend Legacy Solutions Interop&#xD;&#xA;3. "/>

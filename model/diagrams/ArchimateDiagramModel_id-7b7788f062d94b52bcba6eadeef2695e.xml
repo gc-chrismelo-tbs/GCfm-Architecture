@@ -9,15 +9,6 @@
       id="id-f3e7cc3e472548d29590c0885280dd02">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-2f5baf2b5a7c48b6adeb354ec285bd32"
-        source="id-f3e7cc3e472548d29590c0885280dd02"
-        target="id-bdc277c78d644e33a3ca3d34d143a480">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-053610acde3c4ce8b27352c807ed47f6.xml#id-053610acde3c4ce8b27352c807ed47f6"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="48ea36b9-1151-413b-a551-3bdb63f09e2d"
         source="id-f3e7cc3e472548d29590c0885280dd02"
         target="id-970ee798d8c7486bb381bae255009f3e">
@@ -35,20 +26,29 @@
           href="CompositionRelationship_05bbe48b-7044-43b5-98d0-991d9feb736c.xml#05bbe48b-7044-43b5-98d0-991d9feb736c"/>
     </sourceConnections>
     <bounds
-        x="324"
-        y="84"
-        width="252"
+        x="312"
+        y="89"
+        width="241"
         height="100"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5c595aaa-5c71-4abf-91a7-208351115558"
         targetConnections="b27f6a94-8777-48b4-8a6d-41b3442b5067"
         textAlignment="1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-2f5baf2b5a7c48b6adeb354ec285bd32"
+          source="5c595aaa-5c71-4abf-91a7-208351115558"
+          target="id-bdc277c78d644e33a3ca3d34d143a480">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-053610acde3c4ce8b27352c807ed47f6.xml#id-053610acde3c4ce8b27352c807ed47f6"/>
+      </sourceConnections>
       <bounds
           x="120"
-          y="48"
-          width="121"
-          height="37"/>
+          y="36"
+          width="97"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Path"
           href="Path_d9ef6452-bc39-4490-8d0b-529314c90c30.xml#d9ef6452-bc39-4490-8d0b-529314c90c30"/>
@@ -72,9 +72,9 @@
     </sourceConnections>
     <bounds
         x="607"
-        y="108"
+        y="102"
         width="169"
-        height="61"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Facility"
         href="Facility_395ce527-8cbc-40c8-aaee-a908df1c8cb1.xml#395ce527-8cbc-40c8-aaee-a908df1c8cb1"/>

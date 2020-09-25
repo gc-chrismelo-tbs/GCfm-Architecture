@@ -1,4 +1,5 @@
 <archimate:Path
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Express Route (GC-Azure)"
-    id="d9ef6452-bc39-4490-8d0b-529314c90c30"/>
+    name="Azure ExpressRoute"
+    id="d9ef6452-bc39-4490-8d0b-529314c90c30"
+    documentation="https://azure.microsoft.com/en-us/services/expressroute/#overview"/>
