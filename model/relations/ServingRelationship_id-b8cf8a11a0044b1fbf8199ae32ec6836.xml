@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Web GUI"
+    id="id-b8cf8a11a0044b1fbf8199ae32ec6836">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-9c4798d6e3fc4d39ab3ffd99d85ccc2d.xml#id-9c4798d6e3fc4d39ab3ffd99d85ccc2d"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_b34375ee-77a8-4729-9adf-c0e8777a0b80.xml#b34375ee-77a8-4729-9adf-c0e8777a0b80"/>
+</archimate:ServingRelationship>

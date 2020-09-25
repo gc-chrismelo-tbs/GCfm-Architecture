@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix VM"
+    id="id-0d4225524d9d478f922e094d9e817de1">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-c8ea5fe21b6e4fa6987cc9b604f3a4f6.xml#id-c8ea5fe21b6e4fa6987cc9b604f3a4f6"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_b34375ee-77a8-4729-9adf-c0e8777a0b80.xml#b34375ee-77a8-4729-9adf-c0e8777a0b80"/>
+</archimate:ServingRelationship>
