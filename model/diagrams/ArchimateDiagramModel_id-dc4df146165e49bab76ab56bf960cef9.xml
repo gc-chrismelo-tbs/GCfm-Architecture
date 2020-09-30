@@ -7,7 +7,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ffa69570f31e49afb2c5c53795977853"
-      targetConnections="id-c2512a39b19a42a9af71c7b8a4fd5905">
+      targetConnections="id-c2512a39b19a42a9af71c7b8a4fd5905"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0d346f0e03294311a880ce275540679e"
@@ -20,7 +21,7 @@
     <bounds
         x="799"
         y="248"
-        width="169"
+        width="270"
         height="73"/>
     <archimateElement
         xsi:type="archimate:Facility"
@@ -61,6 +62,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-484710af7a39470fb9b8a2882fc82db4"
       targetConnections="id-88adfa244c774c2d82c877d2f48b1199 id-31a6a850d1094139a701f62c8a6adb45 id-57571d4e4daf4f07bdba44b11d80970f"
+      textPosition="1"
       type="1">
     <bounds
         x="499"
@@ -74,7 +76,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7aeaf3fe749743ceaa35906123404b92"
-      targetConnections="id-58396623af0142118c5b5d6fe74a539f">
+      targetConnections="id-58396623af0142118c5b5d6fe74a539f"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3906acb72ced4c148be60c13df9804d6"
@@ -85,9 +88,9 @@
           href="ServingRelationship_id-bab0061d26754c5b9a3c5120258f02f2.xml#id-bab0061d26754c5b9a3c5120258f02f2"/>
     </sourceConnections>
     <bounds
-        x="343"
+        x="276"
         y="248"
-        width="121"
+        width="188"
         height="73"/>
     <archimateElement
         xsi:type="archimate:Facility"
@@ -127,12 +130,13 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b8a7d9ed6f5e468ead69c0eb50d5c202"
-      targetConnections="id-3906acb72ced4c148be60c13df9804d6">
+      targetConnections="id-3906acb72ced4c148be60c13df9804d6"
+      textPosition="1">
     <bounds
-        x="348"
-        y="139"
-        width="120"
-        height="66"/>
+        x="276"
+        y="144"
+        width="192"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Node"
         href="Node_id-ae9e457b848243b9b77d82319984b873.xml#id-ae9e457b848243b9b77d82319984b873"/>
