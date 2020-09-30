@@ -1,8 +1,8 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Web"
-    id="id-b8cf8a11a0044b1fbf8199ae32ec6836">
+    name="SAP GUI"
+    id="id-5ea669f4342f40e2aac059c49ef7e791">
   <source
       xsi:type="archimate:Node"
       href="Node_id-9c4798d6e3fc4d39ab3ffd99d85ccc2d.xml#id-9c4798d6e3fc4d39ab3ffd99d85ccc2d"/>
