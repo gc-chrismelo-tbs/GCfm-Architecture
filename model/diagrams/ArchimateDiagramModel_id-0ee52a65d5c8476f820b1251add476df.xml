@@ -144,21 +144,8 @@
     <bounds
         x="12"
         y="12"
-        width="349"
+        width="469"
         height="109"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-c83c45c4b4164de7bee41eb64bd312fa"
-        textPosition="1">
-      <bounds
-          x="240"
-          y="24"
-          width="97"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_14db8f30-a9f5-4ab5-9860-25b96de85168.xml#14db8f30-a9f5-4ab5-9860-25b96de85168"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c89b7117779c4faeb3da6b22d2300a9e">
@@ -207,6 +194,41 @@
       <archimateElement
           xsi:type="archimate:TechnologyService"
           href="TechnologyService_id-2c88fa5bbd9247b88e2023d0c3ee7632.xml#id-2c88fa5bbd9247b88e2023d0c3ee7632"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-5f9462e90ace4f73a6184906677bfc71"
+        targetConnections="id-7b4f39fc7e7d4621a874c1962c150486">
+      <bounds
+          x="240"
+          y="24"
+          width="217"
+          height="73"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-c83c45c4b4164de7bee41eb64bd312fa"
+          textPosition="1">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-7b4f39fc7e7d4621a874c1962c150486"
+            source="id-c83c45c4b4164de7bee41eb64bd312fa"
+            target="id-5f9462e90ace4f73a6184906677bfc71">
+          <archimateRelationship
+              xsi:type="archimate:RealizationRelationship"
+              href="RealizationRelationship_id-d32b7bac1ac743bd8296d1712e105b35.xml#id-d32b7bac1ac743bd8296d1712e105b35"/>
+        </sourceConnections>
+        <bounds
+            x="12"
+            y="36"
+            width="193"
+            height="25"/>
+        <archimateElement
+            xsi:type="archimate:SystemSoftware"
+            href="SystemSoftware_14db8f30-a9f5-4ab5-9860-25b96de85168.xml#14db8f30-a9f5-4ab5-9860-25b96de85168"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:TechnologyService"
+          href="TechnologyService_id-a077fb82f01b4ae793d8787581c75fcf.xml#id-a077fb82f01b4ae793d8787581c75fcf"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
