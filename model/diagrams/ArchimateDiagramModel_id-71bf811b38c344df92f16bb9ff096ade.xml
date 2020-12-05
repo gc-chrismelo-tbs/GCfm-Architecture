@@ -206,7 +206,7 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-2f05db7c6c1f4b228ef45d41560d97d1"
-            targetConnections="id-9ab68aa693e64ab8bcf4779c93767e26 id-87da48d1739d4e218a6a87509464f187"
+            targetConnections="id-9ab68aa693e64ab8bcf4779c93767e26 id-361bb4bda39047b983892e95e1b7746e"
             textAlignment="1"
             type="1">
           <sourceConnections
@@ -251,29 +251,30 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-369919a72b674f2286e16736cc478960">
+        id="id-f4e0882d7efc405385f56f2662318d89"
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-87da48d1739d4e218a6a87509464f187"
-          source="id-369919a72b674f2286e16736cc478960"
+          id="id-361bb4bda39047b983892e95e1b7746e"
+          source="id-f4e0882d7efc405385f56f2662318d89"
           target="id-2f05db7c6c1f4b228ef45d41560d97d1">
         <bendpoints
-            startX="-42"
+            startX="-72"
             startY="42"
-            endX="-42"
-            endY="-36"/>
+            endX="-48"
+            endY="-60"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-f89e9e5d98274e83a05641bee4379b56.xml#id-f89e9e5d98274e83a05641bee4379b56"/>
+            href="ServingRelationship_id-70b41e22ced84de6a1d254761fcfaa89.xml#id-70b41e22ced84de6a1d254761fcfaa89"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="48"
           y="12"
           width="217"
           height="37"/>
       <archimateElement
-          xsi:type="archimate:TechnologyInterface"
-          href="TechnologyInterface_id-1e7e81db84104a26b4c55d1fa3f8bdfc.xml#id-1e7e81db84104a26b4c55d1fa3f8bdfc"/>
+          xsi:type="archimate:Path"
+          href="Path_id-2330de9cdaf14e3baf3483fe42c7c916.xml#id-2330de9cdaf14e3baf3483fe42c7c916"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
