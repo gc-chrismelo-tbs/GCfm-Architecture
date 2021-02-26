@@ -10,21 +10,21 @@
       targetConnections="id-efbae468aff049f9b27c68738c09d671">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e60dd540a7134e63be020fa9e513a943"
-        source="id-f8b8bc59c79c4f3b879ad030f38b182a"
-        target="id-4f6e66f48f4d44bba154e95bbaab71ae">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-365d0140b8854d4a8165beb8c476a399.xml#id-365d0140b8854d4a8165beb8c476a399"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-53e4db714dcf44719a8e3d9f02557a9e"
         source="id-f8b8bc59c79c4f3b879ad030f38b182a"
         target="id-e3b0202445d94f0a8038564e323dca71">
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-558d73089de74bcaa97664eb2e711881.xml#id-558d73089de74bcaa97664eb2e711881"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-845617d3bae8495aadd765af45dfa751"
+        source="id-f8b8bc59c79c4f3b879ad030f38b182a"
+        target="id-ebd971af7fbb452aa385e1f051fa3542">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-32578dc66088404eb14e0c24764db229.xml#id-32578dc66088404eb14e0c24764db229"/>
     </sourceConnections>
     <bounds
         x="12"
@@ -33,8 +33,8 @@
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-4f6e66f48f4d44bba154e95bbaab71ae"
-        targetConnections="id-e60dd540a7134e63be020fa9e513a943"
+        id="id-ebd971af7fbb452aa385e1f051fa3542"
+        targetConnections="id-845617d3bae8495aadd765af45dfa751"
         textPosition="1">
       <bounds
           x="24"
@@ -43,7 +43,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
-          href="BusinessActor_id-596c71b9997b4f4a9c0231d071bf69ea.xml#id-596c71b9997b4f4a9c0231d071bf69ea"/>
+          href="BusinessActor_id-d09179eea3f04135af09f3be75e8d098.xml#id-d09179eea3f04135af09f3be75e8d098"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessActor"
