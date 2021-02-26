@@ -10,9 +10,9 @@
       textPosition="1">
     <bounds
         x="24"
-        y="132"
+        y="120"
         width="132"
-        height="241"/>
+        height="253"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_aa32ddfb-aa28-46b2-8e8a-984afcc270f1.xml#aa32ddfb-aa28-46b2-8e8a-984afcc270f1"/>
@@ -23,9 +23,9 @@
       targetConnections="id-f4d736a480f246558b88877c6bd8c83f id-edc04de5b54e43fba18a59900a3cc1ef id-f185e05a569040bf9e073e90e2bfc3ad">
     <bounds
         x="168"
-        y="132"
+        y="120"
         width="337"
-        height="325"/>
+        height="337"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7af6ddf1bfa4495e89d19d21425d9105"
@@ -144,12 +144,26 @@
         type="1">
       <bounds
           x="12"
-          y="252"
+          y="300"
           width="313"
           height="25"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-dd21c69390a542f7944b91c49052e2cd.xml#id-dd21c69390a542f7944b91c49052e2cd"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-2b09d84470ef449f9cb2801535b5be0d"
+        textAlignment="1"
+        type="1">
+      <bounds
+          x="12"
+          y="252"
+          width="313"
+          height="25"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-775a9802e6ff47adb8ca668330e2edd7.xml#id-775a9802e6ff47adb8ca668330e2edd7"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationService"
