@@ -18,7 +18,7 @@
     </sourceConnections>
     <bounds
         x="324"
-        y="132"
+        y="168"
         width="313"
         height="61"/>
     <children
@@ -53,7 +53,7 @@
     </sourceConnections>
     <bounds
         x="420"
-        y="204"
+        y="240"
         width="217"
         height="119"/>
     <children
@@ -97,9 +97,9 @@
       type="1">
     <bounds
         x="312"
-        y="276"
+        y="312"
         width="337"
-        height="493"/>
+        height="457"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-3815feee85994fd0a4b3ae2d3a2943ab.xml#id-3815feee85994fd0a4b3ae2d3a2943ab"/>
@@ -109,9 +109,9 @@
       id="id-9175a701653d4ca5abb0e451e47cda3f">
     <bounds
         x="420"
-        y="336"
+        y="372"
         width="217"
-        height="181"/>
+        height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-74e8bb590d2745e1aad59df8896bd909"
@@ -127,24 +127,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-29b114a368b14dbf8dabd513ea007507"
-        textAlignment="1">
-      <bounds
-          x="12"
-          y="72"
-          width="193"
-          height="25"/>
-      <archimateElement
-          xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_18a3b383-610e-43e8-b24b-f02592877df0.xml#18a3b383-610e-43e8-b24b-f02592877df0"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-499f1c75c8754a2b8158683bc122ae7a"
         textAlignment="1">
       <bounds
           x="12"
-          y="108"
+          y="72"
           width="193"
           height="25"/>
       <archimateElement
@@ -157,7 +144,7 @@
         textAlignment="1">
       <bounds
           x="12"
-          y="144"
+          y="108"
           width="193"
           height="25"/>
       <archimateElement
@@ -174,9 +161,9 @@
       textPosition="1">
     <bounds
         x="324"
-        y="288"
+        y="324"
         width="85"
-        height="229"/>
+        height="193"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_28a91789-542e-47ad-99e1-7bed21a46dce.xml#28a91789-542e-47ad-99e1-7bed21a46dce"/>
@@ -187,7 +174,7 @@
       textPosition="1">
     <bounds
         x="324"
-        y="204"
+        y="240"
         width="85"
         height="61"/>
     <archimateElement
